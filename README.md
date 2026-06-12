@@ -16,7 +16,7 @@ A clean, dark-themed desktop password manager built with Python and CustomTkinte
 
 ## 📸 Preview
 
-> *(Add a screenshot of your app here)*
+> ![VaultKey Screenshot](Screenshot.png)
 
 ---
 
@@ -100,6 +100,4 @@ See [`requirements.txt`](requirements.txt) for the full list.
 
 ---
 
-## 📄 License
 
-MIT License — feel free to use, modify, and distribute.
