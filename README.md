@@ -31,8 +31,8 @@ A clean, dark-themed desktop password manager built with Python and CustomTkinte
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/vaultkey.git
-   cd vaultkey
+   git clone https://github.com/PatelKrish-07/Vault_key.git
+   cd Vault_key
    ```
 
 2. **Install dependencies**
